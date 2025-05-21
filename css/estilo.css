@@ -37,7 +37,31 @@
   max-width: 1024px;
   border-radius: 10px;
   padding: 40px;
-  margin: 70px auuto 0;
+  margin: 70px auto 0;
   background: #ffffffc4;
 
+}
+.titulo-topo {
+  font-size: 60px;
+  color: #3c184e;
+  text-align: center;
+  font-weight: 800;
+  margin: 0 0 40px;
+}
+.fale-conosco {
+  text-align: center;
+  width: 200px;
+  padding: 10px 25px;
+  font-size: 20px;
+  background-color: #3c184e;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+.fale-conosco a {
+  color: #fff;
+}
+.container-titulo-topo img {
+  width: 20px;
+  margin-right: 5px;
 }
